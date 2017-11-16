@@ -1,0 +1,10 @@
+C:\Users\bode_\source\repos\Library\LolPing\obj\Debug\LolPing.csprojResolveAssemblyReference.cache
+C:\Users\bode_\source\repos\Library\LolPing\obj\Debug\LolPingLibrary.Form1.resources
+C:\Users\bode_\source\repos\Library\LolPing\obj\Debug\LolPing.Properties.Resources.resources
+C:\Users\bode_\source\repos\Library\LolPing\obj\Debug\LolPing.csproj.GenerateResource.Cache
+C:\Users\bode_\source\repos\Library\LolPing\obj\Debug\LolPing.csproj.CoreCompileInputs.cache
+C:\Users\bode_\source\repos\Library\LolPing\bin\Debug\LolPing.exe.config
+C:\Users\bode_\source\repos\Library\LolPing\bin\Debug\LolPing.exe
+C:\Users\bode_\source\repos\Library\LolPing\bin\Debug\LolPing.pdb
+C:\Users\bode_\source\repos\Library\LolPing\obj\Debug\LolPing.exe
+C:\Users\bode_\source\repos\Library\LolPing\obj\Debug\LolPing.pdb
